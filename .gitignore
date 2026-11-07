@@ -1,0 +1,11 @@
+# Fichiers sensibles ou volumineux (contient des données internes d'entreprise)
+*.devtools
+*.har
+HAR.download.devtools
+
+# Système & OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
